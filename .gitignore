@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore .env files
+.env
+.env.*
+
+log.*
+channel.*
+
+# But don't ignore example .env files
+!.env.example

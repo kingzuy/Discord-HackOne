@@ -1,0 +1,26 @@
+{
+  "name": "hacktivity-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwisiswant0/hacktivity-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwisiswant0/hacktivity-bot/issues"
+  },
+  "homepage": "https://github.com/dwisiswant0/hacktivity-bot#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7"
+  }
+}
