@@ -17,3 +17,7 @@ HACKERONE_PASSWORD=
 
 HACKONE_API_KEY=
 ```
+## Start?
+```bash
+npm run dev
+```
