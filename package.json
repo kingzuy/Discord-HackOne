@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dwisiswant0/hacktivity-bot.git"
+    "url": "git+https://github.com/kingzuy/hacktivity-bot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dwisiswant0/hacktivity-bot/issues"
+    "url": "https://github.com/kingzuy/hacktivity-bot/issues"
   },
-  "homepage": "https://github.com/dwisiswant0/hacktivity-bot#readme",
+  "homepage": "https://github.com/kingzuy/hacktivity-bot#readme",
   "dependencies": {
     "axios": "^1.7.9",
     "discord.js": "^14.16.3",
